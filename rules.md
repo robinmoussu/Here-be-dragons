@@ -49,7 +49,7 @@ Le joueur dont c’est le tour de jeu a le droit d’effectuer les actions suiva
 - Déplacement (1 PA) : Permet de se déplacer sur une case adjacente déjà explorée.
 - Exploration (2 PA) : Lorsque vous êtes sur un bord du plateau, vous pouvez explorer. Pour cela, piochez deux tuiles de la même région que celle où vous vous trouvez. Choisissez-en une et placez là sur un emplacement libre situé à côté de votre caravane. Explorer rapporte 1 écu.
  - Construction (2 PA) : Construire une ville sur l’emplacement de votre caravane, à condition que les faubourgs de cette nouvelle citée ne chevauchent pas celle d’une citée existante. Vous serez gouverneur de cette cité. Lorsque tous les faubourgs de cette citée seront explorés (si ce n’est pas déjà le cas) le gouverneur acquerra une expertise dans l’achat de la ressource négociée dans le forum (voir la section commerce ci-dessous).
- - Commerce (2 PA) : Il n’est possible de commercer dans une citée, à la condition d’être sur son forum. Marchander permet d’accéder aux ressources des faubourgs uniquement si vous n'êtes pas gouverneur. Le prix d’échange est donné ci-dessous.
+ - Commerce (2 PA) : Il n’est possible de commercer dans une citée, qu'à la condition d’être sur le forum. Commercer dans une des cités dont on est le gouverneur fait perdre un point d'influence (il n'est pas possible d'avoir un nombre de point d'influence inférieur à 0). Le prix d’échange est donné ci-dessous.
 
  * 2 écus par ressource
  * -1 si vous avez une expertise d’achat pour cette ressource ou si vous êtes gouverneur de la cité (ces avantages ne se cumulent pas).
@@ -81,8 +81,10 @@ Placer son pion. Prendre 3 ressources (la rareté dépend de sa position dans le
  
 * 1 PA : Déplacer sa caravane d’une 1 case.
 * 2 PA : Explorer 1 tuile parmi 2 de sa région. Rapporte 1 écu.
-* 2 PA : Construire une ville sur sa position. Vous en êtes le gouverneur. Donne une expertise (la ressource du forum) quand tous les faubourgs sont explorés
-* 2 PA : Commerce. Uniquement les ressources du forum si on est gouverneur. Prix : 2 écus par ressource, -1 si on a une expertise ou si on est gouverneur, +1 si la ressource est exotique.
+* 2 PA : Construire une ville sur sa position. Vous en êtes le gouverneur. Donne une expertise (la ressource du forum) quand tous les faubourgs sont explorés.
+* 2 PA : Commerce. Prix : 2 écus par ressource, -1 si on a une expertise ou si on est gouverneur, +1 si la ressource est exotique.
+  - gouverneur : -1 point d'influence. Dépôt des ressources vendues dans la réserve.
+  - sinon : Dépot dans le forum.
 
 Investir des ressources différentes rapporte autant de point d’influence moins 2.
 
