@@ -49,7 +49,7 @@ Le joueur dont c’est le tour de jeu a le droit d’effectuer jusqu'à 4 action
 - **Déplacement** : Permet de se déplacer sur une case adjacente déjà explorée.
 - **Exploration** : Lorsque vous êtes sur un bord du plateau, vous pouvez explorer. Pour cela, piochez deux tuiles de la même région que celle où vous vous trouvez. Choisissez-en une et placez là sur un emplacement libre situé à côté de votre caravane. Explorer rapporte **1 écu**.
  - **Construction** : Construire une ville sur l’emplacement de votre caravane, à condition que les faubourgs de cette nouvelle citée ne chevauchent pas celle d’une citée existante. Vous serez gouverneur de cette cité. Lorsque tous les faubourgs de cette citée seront explorés (si ce n’est pas déjà le cas) le gouverneur acquerra une expertise dans l’achat de la ressource négociée dans le forum (voir la section commerce ci-dessous).
- - **Commerce** : Il n’est possible de commercer dans une citée, qu'à la condition d’être sur le forum. Commercer dans une des cités dont on est le gouverneur fait **perdre 1 point d'influence** (il n'est pas possible d'avoir un nombre de point d'influence inférieur à 0). Le prix d’échange est donné ci-dessous.
+ - **Commerce** : Il n’est possible de commercer dans une citée, qu'à la condition d’être sur le forum. Commercer dans une des cités dont on est le gouverneur fait **perdre 1 point d'influence** (il n'est donc pas possible d'échanger de ressource dans ses citées sans avoir de point d'influence). Le prix d’échange est donné ci-dessous.
 
  * **2 écus** par ressource
  * **-1** si vous avez une **expertise d’achat** pour cette ressource, ou si vous êtes **gouverneur de la cité** et que la ressource acheté était conservée dans le forum (ces avantages ne se cumulent pas).
