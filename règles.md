@@ -78,9 +78,11 @@ Placer son pion. Prendre 3 ressources (la rareté dépend de sa position dans le
 ## Tour suivants :
 
 \+ 1 ressource par citée (max. 6 ressources, 1 par faubourg, 6 dans le forum).
- 
+
+Jusqu'à 4 actions parmis :
+
 * Déplacer sa caravane d’une 1 case.
-* Explorer 1 tuile parmi 2 de sa région. Rapporte 1 écu.
+* Explorer 1 tuile (parmis 2) de sa région. Rapporte 1 écu.
 * Construire une ville sur sa position. Vous en êtes le gouverneur. Donne une expertise (la ressource du forum) quand tous les faubourgs sont explorés.
 * Commerce. Prix : 2 écus par ressource, -1 si expertise ou si achat dans le forum + gouverneur, +1 si la ressource est exotique.
   - gouverneur : -1 point d'influence. Dépôt des ressources vendues dans la réserve.
