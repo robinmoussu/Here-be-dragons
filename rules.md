@@ -25,7 +25,7 @@ Placer un des 6 hexagones centraux, et deux tuiles de chaque région autour de c
 
 # Premier tour de jeu
 
-Chaque joueur place son pion sur un des hexagones puis choisis 3 ressources :
+Chaque joueur **place son pion** sur un des hexagones puis **choisis 3 ressources** :
  
 | ordre de jeu | ressource commune | ressource rare | ressource précieuse |
 |:------------:|:-----------------:|:--------------:|:-------------------:|
@@ -40,7 +40,7 @@ Chaque joueur place son pion sur un des hexagones puis choisis 3 ressources :
 
 ## Production :
 
-Le gouverneur de chaque cité ajoute 1 ressource dans un des faubourgs de chacune de ses cités (mais pas dans le forum). Il peut y avoir au maximum 1 ressource par faubourg et 6 au total dans la citée (en incluant les ressources présentes dans le forum issu de précédant échanges). Le nombre de ressource conservées dans le forum ne sont limités que par le nombre total de ressources stockés dans la cité. Les ressources excédentaires sont détruites.
+Le gouverneur de chaque cité **ajoute 1 ressource dans un des faubourgs de chacune de ses cités** (mais pas dans le forum). Il peut y avoir au **maximum 1 ressource par faubourg** et **6 au total** dans la citée (en incluant les ressources présentes dans le forum issu de précédant échanges). Le nombre de ressource conservées dans le forum ne sont limités que par le nombre total de ressources stockés dans la cité. Les ressources excédentaires sont **détruites**.
 
 ## Phase d’action :
 
