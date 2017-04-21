@@ -44,28 +44,28 @@ Le gouverneur de chaque cité ajoute 1 ressource dans un des faubourgs de chacun
 
 ## Phase d’action :
 
-Le joueur dont c’est le tour de jeu a le droit d’effectuer les actions suivantes dans la limite de 4 points d’action (PA) :
+Le joueur dont c’est le tour de jeu a le droit d’effectuer jusqu'à 4 actions (il est possible d'effectuer plusieurs fois la même) :
 
-- Déplacement (1 PA) : Permet de se déplacer sur une case adjacente déjà explorée.
-- Exploration (2 PA) : Lorsque vous êtes sur un bord du plateau, vous pouvez explorer. Pour cela, piochez deux tuiles de la même région que celle où vous vous trouvez. Choisissez-en une et placez là sur un emplacement libre situé à côté de votre caravane. Explorer rapporte 1 écu.
- - Construction (2 PA) : Construire une ville sur l’emplacement de votre caravane, à condition que les faubourgs de cette nouvelle citée ne chevauchent pas celle d’une citée existante. Vous serez gouverneur de cette cité. Lorsque tous les faubourgs de cette citée seront explorés (si ce n’est pas déjà le cas) le gouverneur acquerra une expertise dans l’achat de la ressource négociée dans le forum (voir la section commerce ci-dessous).
- - Commerce (2 PA) : Il n’est possible de commercer dans une citée, qu'à la condition d’être sur le forum. Commercer dans une des cités dont on est le gouverneur fait perdre un point d'influence (il n'est pas possible d'avoir un nombre de point d'influence inférieur à 0). Le prix d’échange est donné ci-dessous.
+- **Déplacement** : Permet de se déplacer sur une case adjacente déjà explorée.
+- **Exploration** : Lorsque vous êtes sur un bord du plateau, vous pouvez explorer. Pour cela, piochez deux tuiles de la même région que celle où vous vous trouvez. Choisissez-en une et placez là sur un emplacement libre situé à côté de votre caravane. Explorer rapporte **1 écu**.
+ - **Construction** : Construire une ville sur l’emplacement de votre caravane, à condition que les faubourgs de cette nouvelle citée ne chevauchent pas celle d’une citée existante. Vous serez gouverneur de cette cité. Lorsque tous les faubourgs de cette citée seront explorés (si ce n’est pas déjà le cas) le gouverneur acquerra une expertise dans l’achat de la ressource négociée dans le forum (voir la section commerce ci-dessous).
+ - **Commerce** : Il n’est possible de commercer dans une citée, qu'à la condition d’être sur le forum. Commercer dans une des cités dont on est le gouverneur fait **perdre 1 point d'influence** (il n'est pas possible d'avoir un nombre de point d'influence inférieur à 0). Le prix d’échange est donné ci-dessous.
 
- * 2 écus par ressource
- * -1 si vous avez une expertise d’achat pour cette ressource ou si vous êtes gouverneur de la cité (ces avantages ne se cumulent pas).
- * +1 si la ressource est exotique (une ressource est exotique si elle n’est présente sur aucun de ses hexagones, que ce soit le forum où les provinces).
+ * **2 écus** par ressource
+ * **-1** si vous avez une **expertise d’achat** pour cette ressource, ou si vous êtes **gouverneur de la cité** et que la ressource acheté était conservée dans le forum (ces avantages ne se cumulent pas).
+ * **+1** si la ressource est **exotique** (une ressource est exotique si elle n’est présente sur aucun de ses hexagones, que ce soit le forum où les provinces).
  
- Les ressources vendues sont conservées dans le forum si vous êtes un simple marchant, et remises dans la réserve si vous êtes le gouverneur.
+ Les ressources vendues sont **conservées dans le forum** si vous êtes un simple marchant, et **remises dans la réserve** si vous êtes le gouverneur.
  
  Il est également possible de faire échanges avec les autres caravanes situées sur votre case, y compris en dehors d’une cité (les taux d’échange sont alors laissés à la discrétion des joueurs).
  
 ## Phase d’investissement :
 
-Le joueur actif peut choisir d’investir des ressources quelque-soit son emplacement. Les ressources investies doivent toutes être différentes. Investir rapporte autant de point d’influence que le nombre de ressources investies moins 2. Les écus ne peuvent pas être investis.
+Le joueur actif peut choisir d’investir des ressources quelque-soit son emplacement. Les ressources investies doivent toutes être différentes. Investir rapporte autant de point d’influence que **le nombre de ressources investies moins 2**. Les écus ne peuvent pas être investis.
 
 ## Phase d’allègement des caravanes :
 
-À la fin de son tour de jeu, une caravane ne peut pas transporter plus de 10 ressources (les écus comptent comme des ressources dans le calcul du nombre de ressource transportable). Les ressources excédentaires doivent être défaussées. Il est évidemment généralement préférable de les avoir investies précédemment.
+À la fin de son tour de jeu, une caravane ne peut pas transporter plus de **10 ressources** (les écus comptent comme des ressources dans le calcul du nombre de ressource transportable). Les ressources excédentaires doivent être défaussées. Il est évidemment généralement préférable de les avoir investies précédemment.
 
 ---
 
@@ -77,12 +77,12 @@ Placer son pion. Prendre 3 ressources (la rareté dépend de sa position dans le
 
 ## Tour suivants :
 
-\+ 1 ressource par citée (max. 6 ressources, 1 par faubourg).
+\+ 1 ressource par citée (max. 6 ressources, 1 par faubourg, 6 dans le forum).
  
-* 1 PA : Déplacer sa caravane d’une 1 case.
-* 2 PA : Explorer 1 tuile parmi 2 de sa région. Rapporte 1 écu.
-* 2 PA : Construire une ville sur sa position. Vous en êtes le gouverneur. Donne une expertise (la ressource du forum) quand tous les faubourgs sont explorés.
-* 2 PA : Commerce. Prix : 2 écus par ressource, -1 si on a une expertise ou si on est gouverneur, +1 si la ressource est exotique.
+* Déplacer sa caravane d’une 1 case.
+* Explorer 1 tuile parmi 2 de sa région. Rapporte 1 écu.
+* Construire une ville sur sa position. Vous en êtes le gouverneur. Donne une expertise (la ressource du forum) quand tous les faubourgs sont explorés.
+* Commerce. Prix : 2 écus par ressource, -1 si expertise ou si achat dans le forum + gouverneur, +1 si la ressource est exotique.
   - gouverneur : -1 point d'influence. Dépôt des ressources vendues dans la réserve.
   - sinon : Dépot dans le forum.
 
