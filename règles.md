@@ -44,23 +44,23 @@ Le joueur dont c’est le tour de jeu a le droit d’effectuer jusqu'à 4 action
 
 - **Déplacement** : Permet de se déplacer sur une case adjacente déjà explorée.
 - **Exploration** : Lorsque vous êtes sur un bord du plateau, vous pouvez explorer. Pour cela, piochez deux tuiles de la même région que celle où vous vous trouvez. Choisissez-en une et placez là sur un emplacement libre situé à côté de votre caravane. Explorer rapporte **1 écu**.
- - **Construction** : Construire une ville sur l’emplacement de votre caravane, à condition que les faubourgs de cette nouvelle citée ne chevauchent pas celle d’une citée existante. Vous serez gouverneur de cette cité. Lorsque tous les faubourgs de cette citée seront explorés (si ce n’est pas déjà le cas) le gouverneur acquerra une expertise dans l’achat de la ressource négociée dans le forum (voir la section commerce ci-dessous).
- - **Commerce** : Il n’est possible de commercer dans une citée, qu'à la condition d’être sur le forum. Commercer dans une des cités dont on est le gouverneur fait **perdre 1 point d'influence** (il n'est donc pas possible d'échanger de ressource dans ses citées sans avoir de point d'influence). Le prix d’échange est donné ci-dessous.
+ - **Construction** : Construire une ville sur l’emplacement de votre caravane, à condition que les faubourgs de cette nouvelle cité ne chevauchent pas celle d’une cité existante. Vous serez gouverneur de cette cité. Lorsque tous les faubourgs de cette cité seront explorés (si ce n’est pas déjà le cas) le gouverneur acquerra une expertise dans l’achat de la ressource négociée dans le forum (voir la section commerce ci-dessous).
+ - **Commerce** : Permet d'échanger autant de bien que l'on souhaite avec la citée sur laquelle on se trouve (à la condition d’être sur le forum) et avec les marchants présent sur le même hexagone que vous. Il n'est également pas possible de commercer deux fois de suite dans la même cité. Commercer dans une des cités dont on est le gouverneur fait **perdre 1 point d'influence** (il n'est donc pas possible d'échanger de ressource dans ses cités sans avoir de point d'influence). Le prix d’échange avec la cité est donné ci-dessous (le prix d'échange avec d'autre marchants est laissé libre).
 
  * **2 écus** par ressource.
  * **1 écu** si vous **achetez** une ressource dont vous avez une **expertise d’achat** ou si vous êtes **gouverneur de la cité** et que la ressource acheté était conservée dans le forum.
  * **3 écus** si vous **vendez** une ressource **exotique** (celle-ci est exotique si elle n’est présente sur aucun de ses hexagones, que ce soit le forum où les provinces).
  
- Les ressources vendues sont **conservées dans le forum** si vous êtes un simple marchant, et **remises dans la réserve** si vous êtes le gouverneur.
+ Les ressources vendues sont **conservées dans le forum**.
  
  Il est également possible de faire échanges avec les autres caravanes situées sur votre case, y compris en dehors d’une cité (les taux d’échange sont alors laissés à la discrétion des joueurs).
  
 ## Phase d’investissement :
 
-Le joueur actif peut choisir d’investir des ressources quelque-soit son emplacement. Les ressources investies doivent toutes être **différentes**. Les écus ne peuvent pas être investis.
+Le joueur actif peut choisir d’investir des ressources quelque-soit son emplacement. Les ressources investies doivent toutes être **différentes**. Les écus ne peuvent pas être investis. Un seul investissement ne peux être effectué par tour.
 
  * **+1 point d'influence** par ressource.
- * **+1 point d'influence** par ressource **rare ou précieuse** (en plus du point d'influence accordé par l'investissement de la ressource) dans la limite du nombre de faubourgs produisant des ressources rare et précieuse dans vos citées (ex: si vous avez une citée ayant 1 faubourg produisant du charbon, 2 produisant du fer, et une autre cité avec 1 faubourg produisant également du charbon, et 1 faubourg produisant de l'or, vous pouvez obtenir jusqu'à 5 points bonus).
+ * **+1 point d'influence** par ressource **rare ou précieuse** (en plus du point d'influence accordé par l'investissement de la ressource) dans la limite du nombre de faubourgs produisant des ressources rare et précieuse dans vos cités (ex: si vous avez une cité ayant 1 faubourg produisant du charbon, 2 produisant du fer, et une autre cité avec 1 faubourg produisant également du charbon, et 1 faubourg produisant de l'or, vous pouvez obtenir jusqu'à 5 points bonus).
  * **moins 2 point d'influence** pour pouvoir investir.
 
 ## Phase d’allègement des caravanes :
@@ -69,7 +69,7 @@ Le joueur actif peut choisir d’investir des ressources quelque-soit son emplac
 
 ## Production :
 
-Le gouverneur de chaque cité **ajoute 1 ressource dans un des faubourgs de chacune de ses cités** (mais pas dans le forum). Il peut y avoir au **maximum 1 ressource par faubourg** et **6 au total** dans la citée (en incluant les ressources présentes dans le forum issu de précédant échanges). Le nombre de ressource conservées dans le forum ne sont limités que par le nombre total de ressources stockés dans la cité. Les ressources excédentaires sont **détruites**.
+Le gouverneur de chaque cité **ajoute 1 ressource dans un des faubourgs de chacune de ses cités** (mais pas dans le forum). Il peut y avoir au **maximum 1 ressource par faubourg** et **6 au total** dans la cité (en incluant les ressources présentes dans le forum issu de précédant échanges). Le nombre de ressource conservées dans le forum ne sont limités que par le nombre total de ressources stockés dans la cité. Les ressources excédentaires sont **détruites**.
 
 ---
 
@@ -87,7 +87,7 @@ Jusqu'à **4 actions** parmis :
 * **Explorer** 1 tuile (parmis 2) de sa région. Rapporte 1 écu.
 * **Construire** une ville sur sa position. Vous en êtes le gouverneur. Donne une expertise (la ressource du forum) quand tous les faubourgs sont explorés.
 * **Commerce :** 2 écus par ressource, 1 si achat avec expertise ou dans le forum + vous êtes gouverneur, 3 si vente d'une ressource exotique.
-  - gouverneur : -1 point d'influence. Dépôt des ressources vendues dans la réserve.
+  - gouverneur : -1 point d'influence.
   - sinon : Dépot dans le forum.
 
 Investir: +1 par ressources différentes, +1 par ressource rare/précieuse (max : nombre de vos faubourgs produisant des ressources rares/précieuses). Total -2.
