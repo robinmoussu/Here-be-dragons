@@ -1,3 +1,33 @@
+
+# Résumé :
+
+## 1er tour :
+
+Placer son pion. Prendre 3 ressources (la rareté dépend de sa position dans le tour de jeu).
+
+## Tour suivants :
+
+Jusqu'à **4 actions** parmis :
+
+* **Déplacer** sa caravane d’une 1 case.
+* **Explorer** 1 tuile (parmis 2) de sa région. Rapporte 1 écu.
+* **Construire** une ville sur sa position. Vous en êtes le gouverneur. Donne une expertise (la ressource du forum) quand tous les faubourgs sont explorés.
+* **Commerce :** 2 écus par ressource, 1 si achat avec expertise ou dans le forum + vous êtes gouverneur, 3 si vente d'une ressource exotique.
+  - gouverneur : -1 point d'influence.
+  - sinon : Dépot dans le forum.
+
+Investir: +1 par ressources différentes, +1 par ressource rare/précieuse (max : nombre de vos faubourgs produisant des ressources rares/précieuses). Total -2.
+
+Max. 6 ressources + écus par caravane.
+
+\+ 1 ressource par citée (destruction si > 6 ; 1 par faubourg, 6 dans le forum).
+
+## Victoire :
+
+Être le premier joueur à avoir 14 points d’influence.
+
+---
+
 # Matériel
 
  - 20 tuiles pour chacune des 3 régions.
@@ -70,32 +100,3 @@ Le joueur actif peut choisir d’investir des ressources quelque-soit son emplac
 ## Production :
 
 Le gouverneur de chaque cité **ajoute 1 ressource dans un des faubourgs de chacune de ses cités** (mais pas dans le forum). Il peut y avoir au **maximum 1 ressource par faubourg** et **6 au total** dans la cité (en incluant les ressources présentes dans le forum issu de précédant échanges). Le nombre de ressource conservées dans le forum ne sont limités que par le nombre total de ressources stockés dans la cité. Les ressources excédentaires sont **détruites**.
-
----
-
-# Résumé :
-
-## 1er tour :
-
-Placer son pion. Prendre 3 ressources (la rareté dépend de sa position dans le tour de jeu).
-
-## Tour suivants :
-
-Jusqu'à **4 actions** parmis :
-
-* **Déplacer** sa caravane d’une 1 case.
-* **Explorer** 1 tuile (parmis 2) de sa région. Rapporte 1 écu.
-* **Construire** une ville sur sa position. Vous en êtes le gouverneur. Donne une expertise (la ressource du forum) quand tous les faubourgs sont explorés.
-* **Commerce :** 2 écus par ressource, 1 si achat avec expertise ou dans le forum + vous êtes gouverneur, 3 si vente d'une ressource exotique.
-  - gouverneur : -1 point d'influence.
-  - sinon : Dépot dans le forum.
-
-Investir: +1 par ressources différentes, +1 par ressource rare/précieuse (max : nombre de vos faubourgs produisant des ressources rares/précieuses). Total -2.
-
-Max. 6 ressources + écus par caravane.
-
-\+ 1 ressource par citée (destruction si > 6 ; 1 par faubourg, 6 dans le forum).
-
-## Victoire :
-
-Être le premier joueur à avoir 14 points d’influence.
