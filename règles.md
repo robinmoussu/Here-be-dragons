@@ -71,7 +71,7 @@ Le joueur actif peut choisir d’investir des ressources quelque-soit son emplac
 
 Le gouverneur de chaque cité **ajoute 1 ressource dans un des faubourgs de chacune de ses cités** (mais pas dans le forum). Il peut y avoir au **maximum 1 ressource par faubourg** et **6 au total** dans la cité (en incluant les ressources présentes dans le forum issu de précédant échanges). Le nombre de ressource conservées dans le forum ne sont limités que par le nombre total de ressources stockés dans la cité. Les ressources excédentaires sont **détruites**.
 
----
+<div></div>
 
 # Résumé :
 
